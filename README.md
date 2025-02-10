@@ -57,7 +57,7 @@ Aqui está uma demonstração de como funciona o projeto:
 
 ## Acesso ao Projeto
 
-**Versão online (Deploy)**: [Link para o Deploy](https://amigo-secreto-website.vercel.app)
+**Versão online (Deploy)**: [Link para o Deploy](https://challengeamigosecreto.vercel.app/)
 
 ## Contribuições
 
