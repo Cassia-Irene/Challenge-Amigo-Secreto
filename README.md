@@ -42,9 +42,11 @@ Aqui está uma demonstração de como funciona o projeto:
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estruturação da página.
-- **CSS**: Estilização da interface.
-- **JavaScript**: Lógica de adição de amigos, sorteio e reinício da lista.
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ## Como Executar o Projeto
 
