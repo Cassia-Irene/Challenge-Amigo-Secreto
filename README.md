@@ -34,10 +34,10 @@ O objetivo do projeto é criar uma aplicação simples, porém funcional, que se
 Aqui está uma demonstração de como funciona o projeto:
 
 1. **Tela inicial e Adicionar amigos**
-![Tela Inicial e Tela de adicionar amigos](https://github.com/user-attachments/assets/cf73a5c5-48eb-487c-9d6f-923badf1025d)
+![Tela Inicial e Tela de adicionar amigos](https://github.com/Cassia-Irene/Challenge-Amigo-Secreto/issues/1#issue-2844026853)
 
 2. **Lista de amigos, Botão 'Sortear Amigo' e 'Reiniciar'**
-![Lista de amigos, Botão 'Sortear Amigo' e 'Reiniciar'](https://github.com/user-attachments/assets/4a6a80c9-4409-496c-bdf3-1dba7126ecf9)
+![Lista de amigos, Botão 'Sortear Amigo' e 'Reiniciar'](https://github.com/Cassia-Irene/Challenge-Amigo-Secreto/issues/2#issue-2844028656)
 
 ## Tecnologias Utilizadas
 
@@ -48,8 +48,9 @@ Aqui está uma demonstração de como funciona o projeto:
 ## Como Executar o Projeto
 
 1. **Clone o repositório**:
-   ```bash
+   ```bash 
    git clone https://github.com/Cassia-Irene/Challenge-Amigo-Secreto.git
+   ```
 
 2. **Abra o projeto no seu navegador**: Navegue até o diretório do projeto e abra o arquivo ***index.html*** em seu navegador preferido.
 
