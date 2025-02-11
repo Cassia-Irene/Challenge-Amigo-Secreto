@@ -33,13 +33,11 @@ O objetivo do projeto é criar uma aplicação simples, porém funcional, que se
 
 Aqui está uma demonstração de como funciona o projeto:
 
-![Demonstração](link-da-imagem-de-demo.gif)
+1. **Tela inicial e Adicionar amigos**
+![Tela Inicial e Tela de adicionar amigos](https://github.com/user-attachments/assets/cf73a5c5-48eb-487c-9d6f-923badf1025d)
 
-### Passos:
-
-1. **Adicionar Amigos**: Insira os nomes dos amigos na caixa de texto e clique em "Adicionar".
-2. **Sortear Amigo Secreto**: Clique em "Sortear Amigo" para ver quem é o amigo secreto sorteado.
-3. **Reiniciar Lista**: Clique em "Reiniciar" para limpar a lista de amigos e o sorteio.
+2. **Lista de amigos, Botão 'Sortear Amigo' e 'Reiniciar'**
+![Lista de amigos, Botão 'Sortear Amigo' e 'Reiniciar'](https://github.com/user-attachments/assets/4a6a80c9-4409-496c-bdf3-1dba7126ecf9)
 
 ## Tecnologias Utilizadas
 
@@ -51,7 +49,7 @@ Aqui está uma demonstração de como funciona o projeto:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/Cassia-Irene/Challenge-Amigo-Secreto.git
 
 2. **Abra o projeto no seu navegador**: Navegue até o diretório do projeto e abra o arquivo ***index.html*** em seu navegador preferido.
 
@@ -59,7 +57,7 @@ Aqui está uma demonstração de como funciona o projeto:
 
 **Versão online (Deploy)**: [Link para o Deploy](https://challengeamigosecreto.vercel.app/)
 
-## Contribuições
+## Desenvolvido por:
 
 | ![Cássia Irene](https://avatars.githubusercontent.com/u/157053868?v=4) |
 | :---: |
