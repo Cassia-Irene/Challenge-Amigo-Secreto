@@ -13,9 +13,9 @@
 3. [Demonstração](#demonstração)
 4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 5. [Como Executar o Projeto](#como-executar-o-projeto)
-   - [VS Code](#seção-vs-code)
-   - [Deploy](#seção-deploy)
-6. [Desenvolvido por](#contribuições)
+   - [VS Code](#vs-code)
+   - [Deploy](#deploy)
+6. [Desenvolvido por](#desenvolvido-por)
 
 ## Descrição do Projeto
 
