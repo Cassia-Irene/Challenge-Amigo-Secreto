@@ -8,11 +8,11 @@
 
 ## Índice
 
-1. [Descrição do Projeto](#contribuições)
-2. [Funcionalidades](#contribuições)
-3. [Demonstração](#contribuições)
-4. [Tecnologias Utilizadas](#contribuições)
-5. [Como Executar o Projeto](#contribuições)
+1. [Descrição do Projeto](#descrição-do-projeto)
+2. [Funcionalidades](#funcionalidades)
+3. [Demonstração](#demonstração)
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+5. [Como Executar o Projeto](#como-executar-o-projeto)
    - [VS Code](#seção-vs-code)
    - [Deploy](#seção-deploy)
 6. [Desenvolvido por](#contribuições)
